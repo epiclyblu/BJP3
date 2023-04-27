@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Chapter3 {
     public static void main(String[] args) {
-        System.out.println("Chapter 3 Exercises");
+        System.out.println("Chapter 3 Exercises:");
 
         Exercise1(15);
         Exercise2(10);
