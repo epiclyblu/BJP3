@@ -1,6 +1,6 @@
 // only contains Projects 1, 2, 3, 5
 
-public class Chapter2Projects {
+public class Chapter2 {
     public static void main(String[] args) {
         Project1();
         Project2();
