@@ -1,5 +1,3 @@
-// basically introduction to Java, file looks really stupid
-
 public class Chapter1 {
     public static void main(String[] args) {
         System.out.println("\u001B[31mChapter 1 Exercises\u001B[0m\n");
