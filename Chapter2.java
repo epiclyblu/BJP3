@@ -1,5 +1,4 @@
-public class Chapter2Exercises {
-    // TODO: finish Exercise 19
+public class Chapter2 {
 
     public static void main(String[] args) {
         System.out.println("Chapter 2 Exercises");
